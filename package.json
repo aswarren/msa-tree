@@ -23,21 +23,21 @@
     "biojs-io-clustal": "0.x",
     "biojs-io-fasta": "^0.x",
     "biojs-io-newick": "^1.0.0",
+    "browserify": "^7.0.0",
+    "chai": "^1.10.0",
     "d3": "^3.5.2",
     "kew": "^0.5.0-alpha.1",
+    "mkdirp": "^0.5.0",
+    "mocha": "^2.0.1",
     "msa": "^0.3.34",
+    "parcelify": "^0.12.3",
+    "sniper": "^0.2.15",
     "tnt.tree": "0.0.12",
     "underscore": "^1.7.0",
+    "watchify": "^2.1.1"
     "xhr": "^1.17.0"
   },
   "devDependencies": {
-    "browserify": "^7.0.0",
-    "chai": "^1.10.0",
-    "mkdirp": "^0.5.0",
-    "mocha": "^2.0.1",
-    "parcelify": "^0.12.3",
-    "sniper": "^0.2.15",
-    "watchify": "^2.1.1"
   },
   "keywords": [
     "msa",
